@@ -1,12 +1,12 @@
-# YT Downloader
+# Damda (담다)
 
-YouTube 영상과 Shorts를 원하는 화질·코덱·자막으로 저장하는 Windows 프로그램입니다.
+영상을 원하는 화질·코덱·자막으로 저장하는 Windows 프로그램입니다. (YouTube 영상·Shorts 지원)
 설치 없이 파일 하나로 실행되고, 서버 없이 내 PC에서만 동작하며, YouTube 로그인이 필요 없습니다.
 
 ## 다운로드
 
-**[YT-Downloader.exe 받기 (약 8 MB)](https://github.com/CHOL2ing/yt-downloader-releases/releases/latest/download/YT-Downloader.exe)**
-· [모든 버전 보기](https://github.com/CHOL2ing/yt-downloader-releases/releases)
+**[Damda.exe 받기 (약 8 MB)](https://github.com/CHOL2ing/damda-releases/releases/latest/download/Damda.exe)**
+· [모든 버전 보기](https://github.com/CHOL2ing/damda-releases/releases)
 
 Windows 10/11 (64비트). 받은 파일을 원하는 폴더에 두고 실행하면 됩니다.
 
@@ -39,4 +39,8 @@ Windows 10/11 (64비트). 받은 파일을 원하는 폴더에 두고 실행하�
 본인이 올린 영상, 크리에이티브 커먼즈(CC) 영상, 개인 학습용으로만 사용해 주세요.
 이 프로그램은 오픈소스 [yt-dlp](https://github.com/yt-dlp/yt-dlp), [FFmpeg](https://ffmpeg.org), [Deno](https://deno.com)를 함께 사용합니다.
 
+Damda는 YouTube 및 Google과 관련이 없는 개인 프로젝트입니다.
+
 만든이: CHOL2ing
+
+> 이전 이름: YT Downloader (v0.1.0). 기존 사용자는 앱의 업데이트로 자동 전환됩니다.
